@@ -1,0 +1,15 @@
+
+h
+java:S3008"RRename this field "SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÉ‘÷
+k
+java:S3008"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÿÛœûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÆØË®
+i
+java:S1104"SMake SUCCESS a static final constant or non-public and provide accessors if needed.(ÈÉ‘÷
+l
+java:S1104"QMake ERROR a static final constant or non-public and provide accessors if needed.(ÊÿÛœûÿÿÿÿ
+C
+java:S1444"-Make this "public static SUCCESS" field final(ÈÉ‘÷
+F
+java:S1444"+Make this "public static ERROR" field final(ÊÿÛœûÿÿÿÿ
